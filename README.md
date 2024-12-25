@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <h1 align="center">Hi 👋, I'm Karan Aher</h1>
 🌱 I’m currently learning Basics of Programming , coding Courses etc.<br><br>👨‍💻 All of my projects are available at https://github.com/karan-aher<br><br>💬 Ask me about C , C++ , HTML , PYTHON , CSS , MYSQL & LINUX<br><br>📫 How to reach me mr.karanaher@gmail.com<br><br>⚡ Fun fact I am Expert 😎 
 
 
