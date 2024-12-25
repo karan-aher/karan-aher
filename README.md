@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=karan-aher&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karan-aher&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
