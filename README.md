@@ -1,31 +1,24 @@
-![logo](https://github.com/karan-aher/karan-aher/blob/main/WhatsApp%20Image%202024-11-20%20at%2022.02.27_373b298a.jpg)
-<h1 align="center">Hi 👋, I'm Karan Aher</h1>
-<h3 align="center">A passionate Software Engineear from Maharashtra</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwaliaez&label=Profile%20views&color=0e75b6&style=flat" alt="karan-aher" /> </p>
+# 💫 About Me:
+🌱 I’m currently learning Basics of Programming , coding Courses etc.<br><br>👨‍💻 All of my projects are available at https://github.com/karan-aher<br><br>💬 Ask me about C , C++ , HTML , PYTHON , CSS , MYSQL & LINUX<br><br>📫 How to reach me mr.karanaher@gmail.com<br><br>⚡ Fun fact I am Expert 😎 
 
-- 🌱 I’m currently learning **Basics of Programming, coding Courses etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karan-aher](https://github.com/karan-aher)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_karan_aher_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karan Ganesh Aher) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrkaranaher) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karan_aher_96k) 
 
-- 💬 Ask me about **C,C++,HTML,PYTHON,CSS,MYSQL & LINUX**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=karan-aher&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=karan-aher&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-aher&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 📫 How to reach me **mr.karanaher@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I am Expert 😎**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karan-aher&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karan_aher_96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan_aher_96k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karan-aher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-aher" height="30" width="40" /></a>
-<a href="https://instagram.com/its_karan_aher_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_karan_aher_07" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=karan-aher&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-aher&show_icons=true&locale=en&layout=compact" alt="karan-aher" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karan-aher&show_icons=true&locale=en" alt="karan-aher" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-aher&" alt="karan-aher" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
