@@ -1,10 +1,10 @@
-![logo](https://github.com/karan-aher/karan-aher/blob/main/WhatsApp%20Image%202024-11-20%20at%2022.02.27_373b298a.jpg)
+![logo](https://github.com/karan-aher/karan-aher/blob/main/WhatsApp%20Image%202024-12-26%20at%2000.01.55_3e9ca239.jpg)
 # <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;I'm+Karan+Aher!;Welcome+to+My+GitHub+Profile!" /></h1>
 [![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=7&color=10)](https://visitcount.itsvg.in)
 <a href="https://github.com/sahilzalte?tab=followers">
   <img src="https://img.shields.io/github/followers/nwaliaez?label=Followers&style=social" alt="GitHub Badge">
 </a></br>
-🌱 I’m currently learning Basics of Programming and Coading Courses.<br><br>👨‍💻 All of my projects are available at My Repository. <br><br>💬 Ask me about C , C++ , HTML , PYTHON , MYSQL & LINUX<br><br>📫 How to reach me mr.karanaher@gmail.com<br><br>⚡ Fun fact I am Expert 😎 
+🌱 I’m currently learning Basics of Programming and Coading Courses.<br><br>👨‍💻 All of my projects are available at My Repository. <br><br>💬 Ask me about C , C++ , HTML , PYTHON , MYSQL & LINUX<br><br>📫 How to reach me mr.karanaher@gmail.com<br><br>⚡ Fun fact Creative Mind!😎 
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
