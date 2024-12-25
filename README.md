@@ -11,7 +11,7 @@
 </div>
 
 
-## 🌐 Connect with me:
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_karan_aher_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ganesh-aher-3a59b3339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrkaranaher) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karan_aher_96k) 
 <br>
 <div align="center">
