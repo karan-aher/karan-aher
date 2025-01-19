@@ -4,7 +4,7 @@
 <a href="https://github.com/karan-aher?tab=followers">
   <img src="https://img.shields.io/github/followers/nwaliaez?label=Followers&style=social" alt="GitHub Badge">
 </a></br>
-🌱 I’m currently learning Basics of Programming and Coading Courses.<br><br>👨‍💻 All of my projects are available at My Repository. <br><br>💬 Ask me about C , C++ , HTML , PYTHON , MYSQL & LINUX<br><br>📫 How to reach me mr.karanaher@gmail.com<br><br>⚡ Fun fact Creative Mind!😎 
+🌱 I’m currently learning Basics of Programming and Coading Courses.<br><br>👨‍💻 All of my projects are available at My Repository. <br><br>💬 Ask me about C , C++ , HTML , JAVA BASICS , PYTHON , MYSQL & LINUX <br><br>📫 How to reach me mr.karanaher@gmail.com<br><br>⚡ Fun fact Creative Mind!😎 
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
