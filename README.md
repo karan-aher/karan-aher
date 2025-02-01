@@ -1,4 +1,4 @@
-![logo](https://github.com/karan-aher/karan-aher/blob/main/WhatsApp%20Image%202024-12-26%20at%2000.01.55_3e9ca239.jpg)
+![logo](https://github.com/karan-aher/karan-aher/blob/main/Welcome_Banner_Git.jpg)
 # <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;I'm+Karan+Aher!;Welcome+to+My+GitHub+Profile!" /></h1>
 [![](https://visitcount.itsvg.in/api?id=anuraghazra&icon=7&color=10)](https://visitcount.itsvg.in)
 <a href="https://github.com/karan-aher?tab=followers">
