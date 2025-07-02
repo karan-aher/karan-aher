@@ -1,4 +1,4 @@
-# <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;I'm+Karan+Aher!;Welcome+to+My+GitHub+Profile!" /></h1>
+tt# <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;I'm+Karan+Aher!;Welcome+to+My+GitHub+Profile!" /></h1>
 [![](https://visitcount.itsvg.in/api?id=anuraghazra&icon=7&color=10)](https://visitcount.itsvg.in)
 <a href="https://github.com/karan-aher?tab=followers">
   <img src="https://img.shields.io/github/followers/nwaliaez?label=Followers&style=social" alt="GitHub Badge">
