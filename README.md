@@ -81,6 +81,7 @@
 <br>
 
 ### 📬 Contact Me
+>Feel free to reach out via my contact form or connect with me on social platforms.
 
 <p align="center">
   <a href="#" target="_blank">
@@ -88,8 +89,7 @@
   </a>
 </p>
 
- <br>
-
+### 🌐 Connect
 <p align="center">
     <a href="https://www.linkedin.com/in/karan-aher-%F0%9F%87%AE%F0%9F%87%B3-3a59b3339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/its_karan_aher_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
