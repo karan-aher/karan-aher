@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="#" width="100%" />
+  <img src="https://github.com/karan-aher/karan-aher/blob/main/Main%20PNG.png" width="50%" height="500%" />
 </p>
 
 <!-- Typing SVG -->
