@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/karan-aher/karan-aher/blob/main/WhatsApp%20Image%202025-07-08%20at%2000.17.51_5f5da320.jpg" width="100%"  />
+  <img src="https://github.com/karan-aher/karan-aher/blob/main/WhatsApp%20Image%202025-07-11%20at%2015.35.51_e1274f69.jpg" width="100%"  />
 </p>
 
 <!-- Typing SVG -->
